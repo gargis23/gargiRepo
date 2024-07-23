@@ -1,0 +1,2 @@
+The is the second commit!
+Adding more contentgit commit -m Second Commit with project.txt!
